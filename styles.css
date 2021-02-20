@@ -4,7 +4,7 @@ hr{
         width: ='5%';
     }
     h1,h3{
-        color: #66bfbf;
+        color: #0bf1f1;
     }
 .info{
     font-size:large;
@@ -16,19 +16,5 @@ body{
 #Pic:hover{
     background-color: rgb(74, 75, 74);
 }
-.mountain{
-    position: absolute;
-    top:300px;
-    left:500px ;
-}
-.mountain2{
-    position: absolute;
-    left: 600px;
-    top: 100px;
-}
-.cloud{
-    position: absolute;
-    left:1100px;
-    top: 20px;
-}
+
 </style>
